@@ -5,7 +5,9 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Manabu.tech</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
     <copyright>©2020 Manabu tech.</copyright>
+    <lastBuildDate>Mon, 17 Dec 2018 00:17:31 +0900</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,9 +15,18 @@
     <item>
       <title>ins0</title>
       <link>/tags/ins0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Dec 2018 00:17:31 +0900</pubDate>
       
       <guid>/tags/ins0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tsumugu</title>
+      <link>/tags/tsumugu/</link>
+      <pubDate>Wed, 01 Nov 2017 00:17:31 +0900</pubDate>
+      
+      <guid>/tags/tsumugu/</guid>
       <description></description>
     </item>
     
