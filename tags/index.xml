@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Manabu.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>©2020 Manabu tech.</copyright>
-    <lastBuildDate>Thu, 20 Feb 2020 00:17:31 +0900</lastBuildDate>
+    <copyright>©2022 Manabu tech.</copyright>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>matome</title>
+      <link>/tags/matome/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ins0</title>

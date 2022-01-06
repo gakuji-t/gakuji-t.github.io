@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matome on Manabu.tech</title>
+    <link>/tags/matome/</link>
+    <description>Recent content in matome on Manabu.tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>©2022 Manabu tech.</copyright>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/matome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021年まとめ</title>
+      <link>/2021/12/31/matome2021/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/12/31/matome2021/</guid>
+      <description>仕事 今年も良く働きました❗ コロナの影響で、ほぼ会社に行くこともなく家で仕事していました。🏠 大きな出来事で言えば、11月に2年半お世話になった</description>
+    </item>
+    
+  </channel>
+</rss>
