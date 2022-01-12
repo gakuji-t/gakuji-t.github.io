@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022 Manabu tech.</copyright>
-    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Posts</title>
       <link>/posts/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
       <description></description>
@@ -36,10 +36,10 @@
 2012/08/02 : JaSST&amp;rsquo;12 関西でワークショップで登壇
 2010/6/12 : WACATE2010 夏に参加
 2009/6/13 : WACATE2009 夏に参加「最優秀賞貰った!!」
-経歴 株式会社メルペイ 2019年03月-present QA Engineering Manager / QA MOM
+経歴 株式会社Ubie 2022年12月-present Quality Assuarance Engineer
+株式会社メルペイ 2019年03月-present QA Engineering Manager / QA MOM 2021年11月-present 業務委託：Merpay QA支援全般
 インスタンスゼロ株式会社 2018年12月-present General Manager / CO-Founder
-株式会社Oneteam 2018年04月-2019年02月 Chief product Officer(CPO)/QA責任者
-株式会社TSUMUGU 2017年11月-present QA Engineer / Owner</description>
+株式会社Oneteam 2018年04月-2019年02月 Chief product Officer(CPO)/QA責任者</description>
     </item>
     
   </channel>
