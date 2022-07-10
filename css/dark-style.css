@@ -1,0 +1,138 @@
+body {
+  color: rgba(235, 235, 245, .95);
+  background-color: #20202a;
+}
+
+mark {
+  background-color: #36405a;
+}
+
+.note,
+.site.name {
+  color: rgba(235, 235, 245, .95);
+}
+
+.site.slogan .title,
+.note.date,
+.article.date,
+.image-container .title,
+.footer {
+  color: rgba(235, 235, 245, .6);
+}
+
+.note.content,
+.article.markdown-body {
+  color: rgba(235, 235, 245, .85);
+}
+
+code,
+kbd,
+tt,
+samp {
+  color: #f7a4ec;
+}
+
+a {
+  color: #82aaff;
+}
+
+.pagination ul li a {
+  color: #82aaff;
+}
+
+.pagination ul li a.active {
+  background-color: #82aaff;
+}
+
+.pagination ul li a:hover:not(.active) {
+  background-color: rgba(130, 170, 255, .5);
+}
+
+.tag {
+  color: #ff757f;
+}
+
+.category {
+  color: #ffc777;
+}
+
+.note.list .item a:hover,
+.nav.item:hover,
+.article.tag:hover,
+.article.category:hover {
+  background-color: #36485a;
+}
+
+/* border color */
+pre,
+.note.imgs .img,
+.image-container .img,
+.article.markdown-body table td,
+.article.markdown-body table th,
+.article.markdown-body .lntable {
+  border-color: rgba(235, 235, 245,.1);
+}
+
+.article.markdown-body h1,
+.article.markdown-body h2,
+.image-container .title,
+.site.slogan .title,
+.note.list .item {
+  border-bottom-color: rgba(235, 235, 245,.1);
+}
+
+.article.discussion {
+  border-top-color: rgba(235, 235, 245,.1);
+  border-bottom-color: rgba(235, 235, 245,.1);
+}
+
+.article.markdown-body .lntable tr>:first-child {
+  border-right-color: rgba(235, 235, 245,.1);
+}
+.site.header {
+  display: block;
+  width: 830px; /* 幅いっぱいを指定 */
+  height: 90px; /* 高さを50pxに指定 */
+  margin: -1px auto;
+  background-color: #20202a; /* 背景色にグレーを指定 */
+  padding: 20px 20px 5px 5px; /* ヘッダーに上下左右それぞれ余白を指定 */
+  position: fixed; /* ウィンドウを基準に画面に固定 */
+  z-index: 999;
+  top: 0; /* 上下の固定位置を上から0pxにする */
+  border-bottom:solid 1px #FFFF;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  min-height: 0px;
+}
+@media only screen and (min-width: 100px) and (max-width: 400px) {
+  /*デバイスの横幅が321以上768以下の場合*/
+  .site.header {
+    width: 100%; /* 幅いっぱいを指定 */
+    height: 100px; /* 高さを50pxに指定 */
+    min-width: 321px;
+    background-color:#20202a; /* 背景色にグレーを指定 */
+    padding: 5px 5px 5px 18px; /* ヘッダーに上下左右それぞれ余白を指定 */
+    position: fixed; /* ウィンドウを基準に画面に固定 */
+    z-index: 999;
+    top: 0; /* 上下の固定位置を上から0pxにする */
+    left: 0; /* 左右の固定位置を左から0pxにする */
+ 
+  }
+  .nav.wrap {
+    margin-top: -10px;
+  }
+.header.left-side,
+.header.right-side {
+  display: block;
+  font-size: 17px;
+  text-align: initial;
+}
+  .nav.item {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1;
+    padding: 0px 0px;
+    margin: 2px 10px 2px 0;
+    border-radius: 3px;
+  }
+} 
