@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022 Manabu tech.</copyright>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>matome</title>
+      <link>/tags/matome/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ubie</title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/ubie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>matome</title>
-      <link>/tags/matome/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/matome/</guid>
       <description></description>
     </item>
     
