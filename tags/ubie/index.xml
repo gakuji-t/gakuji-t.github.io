@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022 Manabu tech.</copyright>
-    <lastBuildDate>Sun, 08 Jan 2023 12:01:08 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 12:01:08 +0900</lastBuildDate>
     
         <atom:link href="/tags/ubie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>「品質保証のはじめの一歩！絵を描いてプロダクトを理解しよう！」</title>
+      <link>/2023/12/adventcalendar2023/</link>
+      <pubDate>Wed, 20 Dec 2023 12:01:08 +0900</pubDate>
+      
+      <guid>/2023/12/adventcalendar2023/</guid>
+      <description>この記事はUbie Engineering Advent Calendar 2023の20日目の記事になります。 はじめに こんには、ユビーでQAエンジニアをしているGakuです。 早いもので12月</description>
+    </item>
     
     <item>
       <title>Ubieに入社して１年経ちました！</title>
