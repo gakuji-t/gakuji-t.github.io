@@ -713,7 +713,7 @@ strong {
 }
 
 .article.markdown-body li+li {
-  margin-top: 20px;
+  margin-top: 1px;
 }
 
 .article.markdown-body>*,
