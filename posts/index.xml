@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022 Manabu tech.</copyright>
-    <lastBuildDate>Wed, 20 Dec 2023 12:01:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023年まとめ</title>
+      <link>/2023/12/matome2023/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/12/matome2023/</guid>
+      <description>仕事 2023年も良く働きました❗ 今年はコロナが落ち着き、会社と自宅のハイブリッドで仕事をしていました。🏢🏠 東京に出張する機会も多く奈良と東京</description>
+    </item>
     
     <item>
       <title>「品質保証のはじめの一歩！絵を描いてプロダクトを理解しよう！」</title>
@@ -18,7 +27,7 @@
       <pubDate>Wed, 20 Dec 2023 12:01:08 +0900</pubDate>
       
       <guid>/2023/12/adventcalendar2023/</guid>
-      <description>この記事はUbie Engineering Advent Calendar 2023の20日目の記事になります。 はじめに こんには、ユビーでQAエンジニアをしているGakuです。 早いもので12月</description>
+      <description>この記事はUbie Engineering Advent Calendar 2023の20日目の記事になります。 はじめに こんにちは、ユビーでQAエンジニアをしているGakuです。 早いもので12</description>
     </item>
     
     <item>

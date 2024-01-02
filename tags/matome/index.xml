@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>©2022 Manabu tech.</copyright>
-    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/tags/matome/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2023年まとめ</title>
+      <link>/2023/12/matome2023/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/12/matome2023/</guid>
+      <description>仕事 2023年も良く働きました❗ 今年はコロナが落ち着き、会社と自宅のハイブリッドで仕事をしていました。🏢🏠 東京に出張する機会も多く奈良と東京</description>
+    </item>
     
     <item>
       <title>2022年まとめ</title>
