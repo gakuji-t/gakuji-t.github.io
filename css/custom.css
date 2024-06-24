@@ -324,12 +324,12 @@ strong {
 .header.right-side {
     float: right;
 }
-.header.left-side,
+/*.header.left-side,
 .header.right-side {
   display: inline-block;
   font-size: 17px;
   text-align: initial;
-}
+}*/
 
 .site.home:hover {
   opacity: 0.5;
