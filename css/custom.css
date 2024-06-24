@@ -321,7 +321,9 @@ strong {
 .nav.wrap>* {
   margin-top: -5px;
 }
-
+.header.right-side {
+    float: right;
+}
 .header.left-side,
 .header.right-side {
   display: inline-block;
