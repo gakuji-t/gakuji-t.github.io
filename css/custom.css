@@ -285,6 +285,14 @@ strong {
   border-bottom: 1px solid transparent;
 }
 
+#header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-height: 64px;
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+
 .site.header {
   display: block;
   width: 830px; /* 幅いっぱいを指定 */
