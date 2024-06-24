@@ -1,1 +1,0 @@
-# gakuji-t.github.io
