@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ubie on Manabu.tech</title><link>/tags/ubie/</link><description>Recent content in Ubie on Manabu.tech</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>©2024 Manabu tech.</copyright><lastBuildDate>Wed, 20 Dec 2023 12:01:08 +0900</lastBuildDate><atom:link href="/tags/ubie/index.xml" rel="self" type="application/rss+xml"/><item><title>「品質保証のはじめの一歩！絵を描いてプロダクトを理解しよう！」</title><link>/2023/12/adventcalendar2023/</link><pubDate>Wed, 20 Dec 2023 12:01:08 +0900</pubDate><guid>/2023/12/adventcalendar2023/</guid><description>&lt;div align="center">
-&lt;img src="./advent2023_cover.png" width="800px">
-&lt;/div>
-&lt;p>この記事はUbie Engineering Advent Calendar 2023の20日目の記事になります。&lt;/p>
-&lt;div class="iframely-embed">&lt;div class="iframely-responsive" style="height: 140px; padding-bottom: 0;">&lt;a href="https://adventar.org/calendars/9416/embed" data-iframely-url="//iframely.net/AwvBD4e">&lt;/a>&lt;/div>&lt;/div>&lt;script async src="//iframely.net/embed.js">&lt;/script>
-&lt;br>
-&lt;h1 id="はじめに">はじめに&lt;/h1>
-&lt;p>こんにちは、ユビーでQAエンジニアをしている&lt;a href="https://twitter.com/Gakuji1980"target="_blank">Gaku&lt;/a>です。&lt;br>
-早いもので12月でUbieに入社してから2年が経ちました。&lt;br>
-その中で、さまざまなプロジェクトでスクラムQAとして活動してきております。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ubie on Manabu.tech</title><link>/tags/ubie/</link><description>Recent content in Ubie on Manabu.tech</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>©2024 Manabu tech.</copyright><lastBuildDate>Wed, 20 Dec 2023 12:01:08 +0900</lastBuildDate><atom:link href="/tags/ubie/index.xml" rel="self" type="application/rss+xml"/><item><title>「品質保証のはじめの一歩！絵を描いてプロダクトを理解しよう！」</title><link>/2023/12/adventcalendar2023/</link><pubDate>Wed, 20 Dec 2023 12:01:08 +0900</pubDate><guid>/2023/12/adventcalendar2023/</guid><description>&lt;div align="center"&gt;
+&lt;img src="./advent2023_cover.png" width="800px"&gt;
+&lt;/div&gt;
+&lt;p&gt;この記事はUbie Engineering Advent Calendar 2023の20日目の記事になります。&lt;/p&gt;
+&lt;div class="iframely-embed"&gt;&lt;div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"&gt;&lt;a href="https://adventar.org/calendars/9416/embed" data-iframely-url="//iframely.net/AwvBD4e"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;script async src="//iframely.net/embed.js"&gt;&lt;/script&gt;
+&lt;br&gt;
+&lt;h1 id="はじめに"&gt;はじめに&lt;/h1&gt;
+&lt;p&gt;こんにちは、ユビーでQAエンジニアをしている&lt;a href="https://twitter.com/Gakuji1980"target="_blank"&gt;Gaku&lt;/a&gt;です。&lt;br&gt;
+早いもので12月でUbieに入社してから2年が経ちました。&lt;br&gt;
+その中で、さまざまなプロジェクトでスクラムQAとして活動してきております。&lt;br&gt;
 前職までは、マネージメントを役割としてやってきており、この２年はQAエンジニアとして再挑戦した期間だったと思います。まだまだ、新しく学ぶ必要があることや、アンラーンすることが多いですが、今回は「品質保証のはじめの一歩！絵を描いてプロダクトを理解しよう！」のタイトルで、基本に立ち戻りQAについて考えていこうと思います。来年から新しいプロジェクトでQA活動を始める方や、何のためにQA活動をやっているか分からなくなってきている方に読んで頂けると幸いです。
-&lt;br>
-&lt;br>&lt;/p></description></item><item><title>Ubieに入社して１年経ちました！</title><link>/2023/01/ubie20230108/</link><pubDate>Sun, 08 Jan 2023 12:01:08 +0900</pubDate><guid>/2023/01/ubie20230108/</guid><description>&lt;div align="center">
-&lt;img src="./Ubie.png" width="800px">
-&lt;/div>
-&lt;h1 id="１年振り返り">１年振り返り&lt;/h1>
-&lt;p>Ubie株式会社のUbie DiscoveryにQAエンジニアとして入社して１年が経ちました&amp;#x2728;&lt;br>
-1年目の振り返りも兼ねて「Ubieの組織とQAエンジニア」について少し纏めています。&lt;/p></description></item><item><title>Ubieに入社しました！</title><link>/2022/01/10/ubie/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>/2022/01/10/ubie/</guid><description>&lt;div align="center">
-&lt;img src="./Ubie.png" width="800px">
-&lt;/div>
-&lt;h1 id="メルペイからubieへ転職">メルペイからUbieへ転職&lt;/h1>
-&lt;p>11月末に&lt;a href="https://www.merpay.com/"target="_blank">メルペイ&lt;/a>を卒業して&lt;a href="https://ubie.life/"target="_blank">Ubie株式会社&lt;/a>へ入社しました。&lt;br>
-現在、&lt;a href="https://recruit.ubie.life/"target="_blank">Ubie Discovery&lt;/a>でQAエンジニアをしてます。&lt;br>
-この記事ではメルペイからUbieに入社するまでを書いています。&amp;#x270f;&amp;#xfe0f;&lt;/p></description></item></channel></rss>
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;</description></item><item><title>Ubieに入社して１年経ちました！</title><link>/2023/01/ubie20230108/</link><pubDate>Sun, 08 Jan 2023 12:01:08 +0900</pubDate><guid>/2023/01/ubie20230108/</guid><description>&lt;div align="center"&gt;
+&lt;img src="./Ubie.png" width="800px"&gt;
+&lt;/div&gt;
+&lt;h1 id="１年振り返り"&gt;１年振り返り&lt;/h1&gt;
+&lt;p&gt;Ubie株式会社のUbie DiscoveryにQAエンジニアとして入社して１年が経ちました&amp;#x2728;&lt;br&gt;
+1年目の振り返りも兼ねて「Ubieの組織とQAエンジニア」について少し纏めています。&lt;/p&gt;</description></item><item><title>Ubieに入社しました！</title><link>/2022/01/10/ubie/</link><pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate><guid>/2022/01/10/ubie/</guid><description>&lt;div align="center"&gt;
+&lt;img src="./Ubie.png" width="800px"&gt;
+&lt;/div&gt;
+&lt;h1 id="メルペイからubieへ転職"&gt;メルペイからUbieへ転職&lt;/h1&gt;
+&lt;p&gt;11月末に&lt;a href="https://www.merpay.com/"target="_blank"&gt;メルペイ&lt;/a&gt;を卒業して&lt;a href="https://ubie.life/"target="_blank"&gt;Ubie株式会社&lt;/a&gt;へ入社しました。&lt;br&gt;
+現在、&lt;a href="https://recruit.ubie.life/"target="_blank"&gt;Ubie Discovery&lt;/a&gt;でQAエンジニアをしてます。&lt;br&gt;
+この記事ではメルペイからUbieに入社するまでを書いています。&amp;#x270f;&amp;#xfe0f;&lt;/p&gt;</description></item></channel></rss>
